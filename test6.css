@@ -1,0 +1,15 @@
+.wrap {
+    margin: 1rem;
+}
+
+.cont {
+    display: flex;
+    overflow: auto;
+}
+
+.img {
+    height: 250px;
+    width: 100%;
+    object-fit: cover;
+    /* padding: 1rem; */
+}
