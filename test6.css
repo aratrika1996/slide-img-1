@@ -13,6 +13,10 @@
     object-fit: cover;
     /* padding: 1rem; */
 }
+iframe {
+    width: 100% !important;
+    height: 300px !important;
+}
 .swiper-container {
     width: 100%;
     height: 300px;
